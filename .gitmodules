@@ -1,0 +1,8 @@
+[submodule "Route-Trip-FE"]
+	path = Route-Trip-FE
+	url = https://github.com/WildanGhaly/Route-Trip-FE.git
+	branch = main
+[submodule "Route-Trip-BE"]
+	path = Route-Trip-BE
+	url = https://github.com/WildanGhaly/Route-Trip-BE.git
+	branch = main
